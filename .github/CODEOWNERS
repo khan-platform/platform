@@ -1,0 +1,4 @@
+/frontend/ @khan-platform/frontend
+/backend/  @khan-platform/backend
+/infra/    @khan-platform/devops
+/docs/     @khan-platform/docs
